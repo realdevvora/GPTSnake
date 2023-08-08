@@ -1,5 +1,5 @@
 # GPTSnake
-A simple implementation of the Snake game using ChatGPT
+A simple implementation of the Snake game using ChatGPT (prompts are provided in Snake Game in java.pdf)
 
 Testing and JUnit Dependencies:
 
